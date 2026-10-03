@@ -6,7 +6,7 @@ title: Privacy Policy
 # Privacy Policy
 
 **App:** Localplay (`io.github.reneknap.localplay`) — full version and free demo
-**Effective date:** 2026-10-01
+**Effective date:** 2026-10-03
 
 > This is the privacy policy for Localplay. It is linked from the app's Google Play
 > listing and applies to both editions (the paid full version and the free demo).
@@ -108,4 +108,4 @@ with a new effective date.
 
 ## Contact
 
-Questions about this policy: **rene.knap.92@googlemail.com**
+Questions about this policy: **localplay.support@gmail.com**
